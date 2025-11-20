@@ -8,7 +8,7 @@
       image="/fm.png"
     >
       <template #footer-slot>
-        <a class="to-github" href="https://github.com/MaHuerl" target="_blank">
+        <a class="to-github" href="https://github.com/Mario-Call" target="_blank">
           <i class="iconfont icon-github"></i>
           <span>前往 Github</span>
         </a>

@@ -243,7 +243,7 @@ export const themeConfig = {
       },
       {
         icon: "github",
-        link: "https://github.com/MaHuerl",
+        link: "https://github.com/Mario-Call",
       },
       {
         icon: "telegram",
@@ -276,10 +276,10 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/MaHuerl", newTab: true },
-          { text: "等待开放", link: "https://github.com/MaHuerl", newTab: true },
-          { text: "等待开放", link: "https://github.com/MaHuerl", newTab: true },
-          { text: "等待开放", link: "https://github.com/MaHuerl", newTab: true },
+          { text: "Home", link: "https://github.com/Mario-Call", newTab: true },
+          { text: "等待开放", link: "https://github.com/Mario-Call", newTab: true },
+          { text: "等待开放", link: "https://github.com/Mario-Call", newTab: true },
+          { text: "等待开放", link: "https://github.com/Mario-Call", newTab: true },
         ],
       },
       {

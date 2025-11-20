@@ -16,7 +16,7 @@
           <span class="by">Powered by</span>
           <span class="name">Mario</span>
         </a>
-        <a class="theme link" href="https://github.com/MaHuerl" target="_blank">
+        <a class="theme link" href="https://github.com/Mario-Call" target="_blank">
           <span class="name">Github</span>
         </a>
         <a class="rss link" href="/rss.xml" target="_blank">
