@@ -1,6 +1,6 @@
 <template>
   <div v-if="type === 'text'" :class="['banner', bannerType]" id="main-banner">
-    <h1 class="title">你好，欢迎来到马里奥'Blog</h1>
+    <h1 class="title">你好，欢迎来到Mario's Blog</h1>
     <div class="subtitle">
       <Transition name="fade" mode="out-in">
         <span :key="hitokotoData?.hitokoto" class="text">
