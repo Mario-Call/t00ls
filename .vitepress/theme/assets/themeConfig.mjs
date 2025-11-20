@@ -3,7 +3,7 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Mario'Blog",
+    title: "Mario's Blog",
     // 站点描述
     description: "网络安全爱好者，信息安全工程师",
     // 站点logo
