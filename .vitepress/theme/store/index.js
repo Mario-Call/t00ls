@@ -4,10 +4,10 @@ export const mainStore = defineStore("main", {
   state: () => {
     return {
       // 主题类别
-      themeType: "auto",
-      themeValue: "light",
+      themeType: "dark",
+      themeValue: "dark",
       // banner
-      bannerType: "full",
+      bannerType: "half",
       // 加载状态
       loadingStatus: true,
       // 滚动高度

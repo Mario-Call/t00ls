@@ -316,7 +316,7 @@ export const themeConfig = {
   },
   // 评论
   comment: {
-    enable: false,
+    enable: true,
     // 评论系统选择
     // artalk / twikoo
     type: "artalk",
@@ -393,7 +393,7 @@ export const themeConfig = {
   // 搜索
   // https://www.algolia.com/
   search: {
-    enable: false,
+    enable: true,
     appId: "",
     apiKey: "",
   },
