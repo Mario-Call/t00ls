@@ -204,8 +204,8 @@ export const themeConfig = {
         },
         {
           icon: "/images/logo/logo.webp",
-          name: "Home",
-          url: "/",
+          name: "Github",
+          url: "https://github.com/Mario-Call",
         },
         {
           icon: "/images/logo/logo.webp",
@@ -276,7 +276,7 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/Mario-Call", newTab: true },
+          { text: "Github", link: "https://github.com/Mario-Call", newTab: true },
           { text: "等待开放", link: "https://github.com/Mario-Call", newTab: true },
           { text: "等待开放", link: "https://github.com/Mario-Call", newTab: true },
           { text: "等待开放", link: "https://github.com/Mario-Call", newTab: true },
