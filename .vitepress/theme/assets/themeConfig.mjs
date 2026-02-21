@@ -5,7 +5,7 @@ export const themeConfig = {
     // 站点标题
     title: "Mario's Blog",
     // 站点描述
-    description: "网络安全爱好者，信息安全工程师",
+    description: "信息安全工程师、CTF玩家、Web安全爱好者、开源爱好者",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -358,7 +358,7 @@ export const themeConfig = {
       // 倒计时日期
       data: {
         name: "春节",
-        date: "2026-02-27",
+        date: "2027-02-27",
       },
     },
     // 站点数据
@@ -394,8 +394,8 @@ export const themeConfig = {
   // https://www.algolia.com/
   search: {
     enable: true,
-    appId: "",
-    apiKey: "",
+    appId: "WP9Q23ZNRQ",
+    apiKey: "92a399271b9faf89d326ff672140fbcb",
   },
   // 打赏
   rewardData: {

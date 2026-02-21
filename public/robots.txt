@@ -1,3 +1,4 @@
+# Algolia-Crawler-Verif: 718D2690F52CBE96
 User-agent: *
 Allow: /
 Allow: /pages/
