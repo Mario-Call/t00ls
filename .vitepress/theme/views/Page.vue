@@ -3,7 +3,9 @@
   <div :class="[frontmatter.layout || 'page', { 'has-aside': frontmatter.aside }]">
     <div class="page-content">
       <!-- 页面内容 -->
-      <Content id="page-content" :class="['markdown-main-style', { 's-card': frontmatter.card }]" />
+      <Content v-if="frontmatter.layout !== 'friends'" id="page-content" :class="['markdown-main-style', { 's-card': frontmatter.card }]" />
+      <!-- 友链鱼塘 -->
+      <Friends v-else />
       <!-- 评论 -->
       <Comments v-if="frontmatter.comment" />
     </div>
@@ -12,6 +14,8 @@
 </template>
 
 <script setup>
+import Friends from './Friends.vue';
+
 const { frontmatter } = useData();
 </script>
 
